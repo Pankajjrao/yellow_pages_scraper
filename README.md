@@ -1,2 +1,4 @@
 # yellow_pages_scraper
-scraping all the la restaurants from yellow_pages
+scraping main info of all the los-angeles restaurants from yellow_pages
+
+
